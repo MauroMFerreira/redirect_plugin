@@ -1,8 +1,7 @@
 {
     "background": {
       "scripts": [
-        "/lib/jquery-2.2.1.min.js",
-        "/lib/google-analytics-bundle.js",
+        "/lib/jquery-3.6.1.min.js",
         "/js/bg_script.js"
       ]
     },
