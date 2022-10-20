@@ -2,7 +2,8 @@
     "background": {
       "scripts": [
         "/lib/jquery-2.2.1.min.js",
-        "/lib/google-analytics-bundle.js"
+        "/lib/google-analytics-bundle.js",
+        "/js/bg_script.js"
       ]
     },
     "browser_action": {
