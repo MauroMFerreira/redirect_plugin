@@ -1,5 +1,5 @@
 var App = (function(){
-
+/*
     var defaultSettings = {
         showCookie: true,
         testRelcan: true,
@@ -82,8 +82,8 @@ var App = (function(){
     var getSettings = function(){
           return settings;
     };
-  
-  
+
+
     var initMessaging = function(){
         chrome.runtime.onMessage.addListener(
             function(request, sender, sendResponse) {
@@ -489,5 +489,5 @@ var App = (function(){
         getSettings: getSettings,
         updatePath: updatePath
     };
-  
+*/
 })();
