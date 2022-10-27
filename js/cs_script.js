@@ -1,5 +1,7 @@
 (function(){
 
+    console.log(window.location.href);
+/*    
     var init = function(){
         var timestamp = Date.now();
         document.addEventListener("DOMContentLoaded", function(event) {
@@ -97,6 +99,6 @@
     return {
         init: init
     };
-
+*/
 })().init();
   
